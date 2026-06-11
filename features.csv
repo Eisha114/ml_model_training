@@ -1,0 +1,101 @@
+order_id,order_date,customer_id,customer_city,customer_segment,product_category,product_name,quantity,unit_price,discount,shipping_mode,is_returned
+1001,1/3/2023,C201,Karachi,Consumer,Electronics,Wireless Headphones,1,4500,0.05,Standard,0
+1002,1/5/2023,C034,Lahore,Corporate,Office Supplies,Stapler Set,3,850,0,Economy,0
+1003,1/7/2023,C178,Islamabad,Consumer,Clothing,Winter Jacket,2,3200,0.1,Express,0
+1004,1/10/2023,C092,Peshawar,Home Office,Furniture,Desk Chair,1,18000,0.15,Standard,0
+1005,1/12/2023,C201,Karachi,Consumer,Electronics,USB-C Hub,2,1200,0,Economy,0
+1006,1/15/2023,C310,Quetta,Corporate,Office Supplies,Printer Paper,10,450,0.05,Economy,0
+1007,1/18/2023,C045,Lahore,Consumer,Clothing,Running Shoes,1,6500,0.2,Express,1
+1008,1/20/2023,C088,Karachi,Corporate,Electronics,Laptop Stand,1,2800,0,Standard,0
+1009,1/22/2023,C156,Islamabad,Consumer,Food & Beverage,Green Tea Pack,5,320,0,Economy,0
+1010,1/25/2023,C034,Lahore,Corporate,Furniture,Bookshelf,1,12000,0.1,Standard,0
+1011,2/1/2023,C290,Karachi,Consumer,Electronics,Bluetooth Speaker,1,3500,0.05,Express,0
+1012,2/3/2023,C112,Peshawar,Home Office,Office Supplies,Notebook Bundle,4,600,0,Economy,0
+1013,2/7/2023,C178,Islamabad,Consumer,Clothing,Formal Shirt,3,1800,0.1,Standard,0
+1014,2/10/2023,C067,Lahore,Corporate,Electronics,Wireless Mouse,2,950,0,Economy,0
+1015,2/14/2023,C201,Karachi,Consumer,Food & Beverage,Coffee Beans 1kg,2,1500,0,Express,0
+1016,2/16/2023,C310,Quetta,Corporate,Furniture,Filing Cabinet,1,9500,0.15,Standard,0
+1017,2/19/2023,C045,Lahore,Consumer,Electronics,Smart Watch,1,22000,0.05,Express,0
+1018,2/22/2023,C388,Islamabad,Home Office,Office Supplies,Whiteboard,1,4200,0,Standard,0
+1019,2/25/2023,C092,Peshawar,Consumer,Clothing,Denim Jeans,2,2400,0.1,Economy,1
+1020,2/28/2023,C156,Islamabad,Corporate,Electronics,Monitor 24in,1,35000,0.05,Standard,0
+1021,3/2/2023,C201,Karachi,Consumer,Food & Beverage,Protein Powder,1,4800,0,Economy,0
+1022,3/5/2023,C034,Lahore,Corporate,Office Supplies,Desk Organizer,2,750,0,Express,0
+1023,3/8/2023,C290,Karachi,Consumer,Clothing,Sports T-Shirt,4,900,0.05,Economy,0
+1024,3/12/2023,C178,Islamabad,Home Office,Furniture,Office Desk,1,25000,0.1,Standard,0
+1025,3/15/2023,C112,Peshawar,Consumer,Electronics,Power Bank,2,2200,0,Economy,0
+1026,3/18/2023,C067,Lahore,Corporate,Electronics,Keyboard Mechanical,1,5500,0.05,Express,0
+1027,3/20/2023,C388,Islamabad,Consumer,Food & Beverage,Organic Honey,3,1100,0,Economy,0
+1028,3/23/2023,C045,Lahore,Consumer,Clothing,Leather Wallet,2,1600,0.1,Standard,0
+1029,3/26/2023,C310,Quetta,Corporate,Office Supplies,Pen Set Premium,5,380,0,Economy,0
+1030,3/29/2023,C201,Karachi,Consumer,Electronics,Tablet 10in,1,45000,0.05,Express,0
+1031,4/2/2023,C156,Islamabad,Home Office,Furniture,Study Lamp,2,2100,0,Standard,0
+1032,4/5/2023,C092,Peshawar,Consumer,Clothing,Casual Sneakers,1,5800,0.15,Express,1
+1033,4/8/2023,C034,Lahore,Corporate,Electronics,Webcam HD,1,3800,0,Economy,0
+1034,4/11/2023,C290,Karachi,Consumer,Food & Beverage,Mixed Nuts Pack,4,850,0.05,Economy,0
+1035,4/14/2023,C178,Islamabad,Consumer,Office Supplies,Planner 2023,1,620,0,Standard,0
+1036,4/17/2023,C067,Lahore,Corporate,Furniture,Conference Table,1,55000,0.1,Standard,0
+1037,4/20/2023,C112,Peshawar,Consumer,Electronics,Earbuds TWS,1,4100,0.05,Express,0
+1038,4/23/2023,C388,Islamabad,Home Office,Clothing,Formal Blazer,1,7200,0,Standard,0
+1039,4/26/2023,C045,Lahore,Consumer,Food & Beverage,Instant Noodles 12pk,3,480,0,Economy,0
+1040,4/29/2023,C201,Karachi,Corporate,Electronics,External SSD 1TB,1,12500,0.05,Express,0
+1041,5/2/2023,C310,Quetta,Consumer,Clothing,Summer Dress,2,2600,0.1,Economy,0
+1042,5/5/2023,C156,Islamabad,Home Office,Office Supplies,Sticky Notes Bulk,6,290,0,Economy,0
+1043,5/8/2023,C034,Lahore,Corporate,Furniture,Ergonomic Chair,1,32000,0.15,Standard,0
+1044,5/11/2023,C290,Karachi,Consumer,Electronics,Gaming Mouse,1,3200,0.05,Express,0
+1045,5/14/2023,C092,Peshawar,Consumer,Food & Beverage,Whey Protein,1,5200,0,Economy,0
+1046,5/17/2023,C178,Islamabad,Consumer,Clothing,Polo Shirt 3pk,1,2700,0.05,Standard,0
+1047,5/20/2023,C067,Lahore,Corporate,Electronics,Router WiFi 6,1,8900,0,Express,0
+1048,5/23/2023,C388,Islamabad,Home Office,Furniture,Wall Shelves,2,3400,0.1,Standard,0
+1049,5/26/2023,C045,Lahore,Consumer,Food & Beverage,Dark Chocolate 6pk,3,650,0,Economy,0
+1050,5/29/2023,C201,Karachi,Consumer,Electronics,Smart Home Hub,1,15000,0.05,Express,0
+1051,6/1/2023,C112,Peshawar,Corporate,Office Supplies,Shredder Machine,1,7800,0.1,Standard,0
+1052,6/4/2023,C310,Quetta,Consumer,Clothing,Linen Trousers,2,3100,0,Economy,0
+1053,6/7/2023,C156,Islamabad,Home Office,Electronics,Noise Cancel Headphones,1,18500,0.05,Express,0
+1054,6/10/2023,C034,Lahore,Corporate,Furniture,Reception Sofa,1,42000,0.15,Standard,0
+1055,6/13/2023,C290,Karachi,Consumer,Food & Beverage,Green Smoothie Mix,4,780,0,Economy,0
+1056,6/16/2023,C092,Peshawar,Consumer,Electronics,Action Camera,1,28000,0.05,Express,1
+1057,6/19/2023,C178,Islamabad,Consumer,Clothing,Yoga Pants,2,1900,0.1,Standard,0
+1058,6/22/2023,C067,Lahore,Corporate,Office Supplies,Laser Printer,1,22000,0,Standard,0
+1059,6/25/2023,C388,Islamabad,Home Office,Food & Beverage,Herbal Tea Set,2,950,0,Economy,0
+1060,6/28/2023,C201,Karachi,Consumer,Electronics,Drone Mini,1,38000,0.1,Express,0
+1061,7/2/2023,C045,Lahore,Consumer,Clothing,Athletic Shorts,3,1200,0.05,Economy,0
+1062,7/5/2023,C112,Peshawar,Corporate,Furniture,Standing Desk,1,48000,0.1,Standard,0
+1063,7/8/2023,C310,Quetta,Consumer,Electronics,Smart TV 43in,1,85000,0.05,Express,0
+1064,7/11/2023,C156,Islamabad,Home Office,Office Supplies,Label Maker,1,3500,0,Economy,0
+1065,7/14/2023,C034,Lahore,Corporate,Food & Beverage,Office Snack Box,5,1100,0,Economy,0
+1066,7/17/2023,C290,Karachi,Consumer,Clothing,Rain Jacket,1,4400,0.15,Standard,0
+1067,7/20/2023,C092,Peshawar,Consumer,Electronics,VR Headset,1,55000,0.05,Express,0
+1068,7/23/2023,C178,Islamabad,Consumer,Furniture,Bedside Table,2,6800,0.1,Standard,0
+1069,7/26/2023,C067,Lahore,Corporate,Office Supplies,Paper Shredder,1,9200,0,Standard,0
+1070,7/29/2023,C388,Islamabad,Home Office,Electronics,iPad Mini,1,68000,0.05,Express,0
+1071,8/1/2023,C201,Karachi,Consumer,Food & Beverage,Protein Bar 24pk,2,2400,0,Economy,0
+1072,8/4/2023,C045,Lahore,Consumer,Clothing,Swim Shorts,2,1500,0.05,Economy,0
+1073,8/7/2023,C112,Peshawar,Corporate,Electronics,Conference Speakerphone,1,12000,0,Standard,0
+1074,8/10/2023,C310,Quetta,Consumer,Furniture,Wardrobe 3-door,1,38000,0.15,Standard,1
+1075,8/13/2023,C156,Islamabad,Home Office,Office Supplies,Desk Pad XL,1,1800,0,Economy,0
+1076,8/16/2023,C034,Lahore,Corporate,Food & Beverage,Mineral Water 24pk,4,600,0,Economy,0
+1077,8/19/2023,C290,Karachi,Consumer,Clothing,Leather Belt,2,1300,0.1,Standard,0
+1078,8/22/2023,C092,Peshawar,Consumer,Electronics,Portable Projector,1,32000,0.05,Express,0
+1079,8/25/2023,C178,Islamabad,Consumer,Furniture,Coffee Table,1,14500,0.1,Standard,0
+1080,8/28/2023,C067,Lahore,Corporate,Office Supplies,Binding Machine,1,5600,0,Economy,0
+1081,9/1/2023,C388,Islamabad,Home Office,Electronics,Smart Doorbell,1,8500,0.05,Express,0
+1082,9/4/2023,C201,Karachi,Consumer,Clothing,Backpack Travel,1,6200,0.1,Standard,0
+1083,9/7/2023,C045,Lahore,Consumer,Food & Beverage,Dried Fruits Mix,3,900,0,Economy,0
+1084,9/10/2023,C112,Peshawar,Corporate,Furniture,Visitor Chairs 4pk,1,16000,0.15,Standard,0
+1085,9/13/2023,C310,Quetta,Consumer,Electronics,Fitness Tracker,1,9800,0.05,Express,0
+1086,9/16/2023,C156,Islamabad,Home Office,Office Supplies,Laminator A4,1,4100,0,Economy,0
+1087,9/19/2023,C034,Lahore,Corporate,Food & Beverage,Energy Drinks 24pk,3,1800,0,Economy,0
+1088,9/22/2023,C290,Karachi,Consumer,Clothing,Formal Trousers,2,2900,0.05,Standard,0
+1089,9/25/2023,C092,Peshawar,Consumer,Electronics,Mirrorless Camera,1,95000,0.05,Express,0
+1090,9/28/2023,C178,Islamabad,Consumer,Furniture,Dining Chairs 2pk,1,11000,0.1,Standard,0
+1091,10/2/2023,C067,Lahore,Corporate,Office Supplies,Projector Screen,1,7500,0,Standard,0
+1092,10/5/2023,C388,Islamabad,Home Office,Electronics,Security Camera,2,6400,0.05,Express,0
+1093,10/8/2023,C201,Karachi,Consumer,Clothing,Winter Coat,1,8900,0.15,Standard,0
+1094,10/11/2023,C045,Lahore,Consumer,Food & Beverage,Oats Premium 5kg,2,1200,0,Economy,0
+1095,10/14/2023,C112,Peshawar,Corporate,Furniture,Sofa 3-seater,1,62000,0.1,Standard,0
+1096,10/17/2023,C310,Quetta,Consumer,Electronics,Gaming Console,1,78000,0.05,Express,1
+1097,10/20/2023,C156,Islamabad,Home Office,Office Supplies,Staple Remover Set,3,240,0,Economy,0
+1098,10/23/2023,C034,Lahore,Corporate,Food & Beverage,Coffee Machine,1,28000,0.05,Standard,0
+1099,10/26/2023,C290,Karachi,Consumer,Clothing,Hoodie Fleece,2,3300,0.1,Economy,0
+1100,10/29/2023,C092,Peshawar,Consumer,Electronics,Mechanical Keyboard,1,7200,0.05,Express,0
